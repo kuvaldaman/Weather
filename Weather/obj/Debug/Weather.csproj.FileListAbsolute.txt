@@ -1,0 +1,15 @@
+c:\users\тернт\documents\visual studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe.config
+c:\users\тернт\documents\visual studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe
+c:\users\тернт\documents\visual studio 2015\Projects\Weather\Weather\bin\Debug\Weather.pdb
+c:\users\тернт\documents\visual studio 2015\Projects\Weather\Weather\bin\Debug\RestSharp.dll
+c:\users\тернт\documents\visual studio 2015\Projects\Weather\Weather\bin\Debug\RestSharp.xml
+c:\users\тернт\documents\visual studio 2015\Projects\Weather\Weather\obj\Debug\MainWindow.g.cs
+c:\users\тернт\documents\visual studio 2015\Projects\Weather\Weather\obj\Debug\App.g.cs
+c:\users\тернт\documents\visual studio 2015\Projects\Weather\Weather\obj\Debug\Weather_MarkupCompile.cache
+c:\users\тернт\documents\visual studio 2015\Projects\Weather\Weather\obj\Debug\Weather_MarkupCompile.lref
+c:\users\тернт\documents\visual studio 2015\Projects\Weather\Weather\obj\Debug\MainWindow.baml
+c:\users\тернт\documents\visual studio 2015\Projects\Weather\Weather\obj\Debug\Weather.g.resources
+c:\users\тернт\documents\visual studio 2015\Projects\Weather\Weather\obj\Debug\Weather.Properties.Resources.resources
+c:\users\тернт\documents\visual studio 2015\Projects\Weather\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+c:\users\тернт\documents\visual studio 2015\Projects\Weather\Weather\obj\Debug\Weather.exe
+c:\users\тернт\documents\visual studio 2015\Projects\Weather\Weather\obj\Debug\Weather.pdb
